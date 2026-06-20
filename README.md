@@ -277,6 +277,7 @@ kubectl delete deployment flask-app
 kubectl delete service service-devops
 kubectl delete deployment redis
 kubectl delete service redis
+```
 
 Скриншоты
 
